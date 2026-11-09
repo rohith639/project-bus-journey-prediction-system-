@@ -1,0 +1,7 @@
+Metric,Model_Result,Baseline_Result,Improvement
+Regression MAE (min),2.891,8.072,64.2%
+Regression RMSE (min),3.578,10.113,64.6%
+Classification Accuracy,86.33%,66.83%,+19.50%
+Classification F1-Score,0.7897,0.0000,+0.7897
+Classification Precision,0.8063,0.0000,+0.8063
+Classification Recall,0.7739,0.0000,+0.7739

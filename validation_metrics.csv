@@ -1,0 +1,5 @@
+Model,Type,MAE_min,RMSE_min
+Baseline (Scheduled Duration),Baseline,7.889,9.845
+Linear Regression,Regression,2.77,3.451
+Decision Tree Regressor,Regression,4.044,5.067
+Random Forest Regressor,Regression,3.087,3.891
